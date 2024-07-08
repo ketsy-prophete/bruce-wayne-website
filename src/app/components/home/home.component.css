@@ -1,0 +1,34 @@
+body {
+    background-color: rgba(0, 0, 0, 0.812);
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 200px;
+    text-align: center;
+    color: rgb(201, 201, 215);
+
+}
+
+div {
+    text-align: center;
+}
+
+div img {
+    width: 250px;
+    height: auto;
+    box-shadow: 10px 10px 20px 0px rgba(0, 0, 0, 0.3);
+    display: inline;
+}
+
+h2 {
+    display: inline-block;
+    transform: translateY(-125px);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 400px;
+    color: rgb(201, 201, 215);
+    text-align: left;
+    font-style: italic;
+    padding: 12px;
+    margin-left: 20px;
+}

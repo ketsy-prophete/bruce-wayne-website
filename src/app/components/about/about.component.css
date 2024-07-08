@@ -1,0 +1,41 @@
+body {
+    background-color: rgba(0, 0, 0, 0.812);
+}
+
+div {
+    /* border: 5px solid rgb(76, 84, 226); */
+    padding: 12px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    margin-bottom: 0;
+    /* text-decoration: underline; */
+
+}
+
+p {
+    color: rgb(201, 201, 215);
+    font-size: larger;
+    margin-top: 0;
+    font-family: 'Arial', Arial, sans-serif;
+}
+
+ul {
+    color: rgb(201, 201, 215);
+    font-size: larger;
+    font-family: 'Arial', Arial, sans-serif;
+}
+
+mat-expansion-panel {
+    background-color: rgba(79, 78, 78, 0.258);
+}
+
+mat-panel-title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    font-size: large;
+}
